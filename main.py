@@ -66,4 +66,3 @@ if download_choice == "a":
 if download_choice == "e":
         print("Exiting")
         sys.exit()
-
