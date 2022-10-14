@@ -6,6 +6,7 @@ from pytube import YouTube
 from colorama import init, Fore, Style
 from pathlib import Path
 
+
 # Define initial variables
 username = getpass.getuser()
 downloads_path = str(Path.home() / "Downloads")
