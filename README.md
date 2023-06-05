@@ -32,11 +32,9 @@ Now, type ``python3 main.py`` and hit enter to run the program.
 Next time you want to run the program, you just need to cd into the directory where you have pytube and repeat the last step!
 
 ### Linux - Debian
-
-sudo apt install python3 python3-pip
-
 Cd into the directory where you've downloaded (and unzipped if applicable) this repository.
 
+``sudo apt install python3 python3-pip``
 ``pip3 install pytube``
 ``python3 main.py``
 
